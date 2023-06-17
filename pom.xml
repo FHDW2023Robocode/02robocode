@@ -47,7 +47,7 @@
                                     <version>${version}</version>
                                 </artifactItem>
                             </artifactItems>
-                            <outputDirectory>C:\robocode\robots</outputDirectory>
+                            <outputDirectory>${robotlocation}</outputDirectory>
                             <stripVersion>true</stripVersion>
                         </configuration>
                     </execution>
